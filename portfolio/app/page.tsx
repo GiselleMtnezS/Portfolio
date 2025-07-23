@@ -4,7 +4,7 @@ import Intro from '@/components/home/intro'
 // import RecentProjects from '@/components/projects/recent-projects'
 
 import { MDXRemote } from 'next-mdx-remote/rsc';
-import ContactFormWrapper from './contact/wrapper';
+// import ContactFormWrapper from './contact/wrapper';
 
 export default function Home() {
   const content = `
