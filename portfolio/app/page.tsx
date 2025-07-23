@@ -17,7 +17,7 @@ export default function Home() {
         <MDXRemote source={content} />
         {/* <RecentPosts /> */}
         {/* <RecentProjects /> */}
-        <ContactFormWrapper />
+        {/* <ContactFormWrapper /> */}
         {/* <NewsletterForm /> */}
       </div>
     </section>
