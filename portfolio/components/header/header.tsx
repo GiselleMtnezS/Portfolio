@@ -17,10 +17,10 @@ export default function Header() {
           </li>
           <li className='transition-colors hover:text-foreground'>
             <Link href='/projects'>Projects</Link>
-          </li> */}
+          </li> 
           <li className='transition-colors hover:text-foreground'>
             <Link href='/contact'>Contact</Link>
-          </li>
+          </li> */}
         </ul>
 
         <div>
